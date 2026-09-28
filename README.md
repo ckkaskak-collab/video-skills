@@ -1,12 +1,6 @@
 # Video Skills
 
-视频、封面制作与内容采集 Skill 的完整包。抖音采集 Skill 更新于 **2026-09-28**；以下三个视频与封面 Skill 更新于 **2026-09-24**。
-
-## 抖音博主内容采集 · 2026-09-28
-
-[douyin-feishu-collector 完整 ZIP](https://github.com/ckkaskak-collab/video-skills/releases/download/douyin-collector-2026-09-28/douyin-feishu-collector.zip) · [发布说明](https://github.com/ckkaskak-collab/video-skills/releases/tag/douyin-collector-2026-09-28) · [SHA-256 校验](https://github.com/ckkaskak-collab/video-skills/releases/download/douyin-collector-2026-09-28/SHA256SUMS.txt)
-
-采集抖音博主新作品、完整本地口播转写，并增量更新飞书普通电子表格；也支持配置为 Excel 或 Base。原标题已去除话题标签，Tag 独立保存。完整包含 14 个文件：全部脚本、测试、Skill 说明、配置模板和安装说明。首次使用需配置 MediaCrawler、faster-whisper、FFmpeg、lark-cli 和目标表格；不包含私人账号配置和采集数据。
+视频与封面制作 Skill 的完整目录备份。以下三个 Skill 最新完整包更新于 **2026-09-24**。
 
 ## 视频与封面完整包下载
 
@@ -37,3 +31,8 @@
 ## 其他历史备份
 
 [anything2explainer.zip（2026-09-15）](https://github.com/ckkaskak-collab/video-skills/blob/main/anything2explainer.zip)：黑底 MG 科普讲解视频，含模板、脚本、参考和样例。
+
+
+## 已迁移的项目
+
+抖音内容采集 Skill 已迁至独立仓库 [douyin-feishu-collector](https://github.com/ckkaskak-collab/douyin-feishu-collector)，源码、安装说明和版本下载均在新仓库维护。
