@@ -1,8 +1,14 @@
 # Video Skills
 
-视频与封面制作 Skill 的完整目录备份。以下三个 Skill 最新完整包更新于 **2026-09-24**。
+视频、封面制作与内容采集 Skill 的完整包。抖音采集 Skill 更新于 **2026-09-28**；以下三个视频与封面 Skill 更新于 **2026-09-24**。
 
-## 最新完整包下载
+## 抖音博主内容采集 · 2026-09-28
+
+[douyin-feishu-collector 完整 ZIP](https://github.com/ckkaskak-collab/video-skills/releases/download/douyin-collector-2026-09-28/douyin-feishu-collector.zip) · [发布说明](https://github.com/ckkaskak-collab/video-skills/releases/tag/douyin-collector-2026-09-28) · [SHA-256 校验](https://github.com/ckkaskak-collab/video-skills/releases/download/douyin-collector-2026-09-28/SHA256SUMS.txt)
+
+采集抖音博主新作品、完整本地口播转写，并增量更新飞书普通电子表格；也支持配置为 Excel 或 Base。原标题已去除话题标签，Tag 独立保存。完整包含 14 个文件：全部脚本、测试、Skill 说明、配置模板和安装说明。首次使用需配置 MediaCrawler、faster-whisper、FFmpeg、lark-cli 和目标表格；不包含私人账号配置和采集数据。
+
+## 视频与封面完整包下载
 
 | Skill | 用途 | 文件数 | 下载 |
 | --- | --- | ---: | --- |
@@ -12,7 +18,7 @@
 
 [查看 2026-09-24 完整发布说明](https://github.com/ckkaskak-collab/video-skills/releases/tag/skills-2026-09-24) · [SHA-256 校验值](https://github.com/ckkaskak-collab/video-skills/releases/download/skills-2026-09-24/SHA256SUMS.txt) · [104 个文件的完整清单](https://github.com/ckkaskak-collab/video-skills/releases/download/skills-2026-09-24/file-manifest.json)
 
-**请从上表下载最新版。** 完整包以 Release 附件保存，因此不会自动出现在上方的仓库文件列表。仓库根目录的同名 ZIP 是 2026-09-15 历史备份；绿色 Code 按钮和 Release 自动生成的 Source code 包也不包含上述最新附件。
+**请从本页对应的下载入口获取最新版。** 完整包以 Release 附件保存，因此不会自动出现在上方的仓库文件列表。仓库根目录的同名 ZIP 是 2026-09-15 历史备份；绿色 Code 按钮和 Release 自动生成的 Source code 包也不包含上述最新附件。
 
 ## 使用
 
